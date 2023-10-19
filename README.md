@@ -5,10 +5,10 @@ The free Pragmatic Works Power Apps Component Library helps you build applicatio
 
 Video instructions
 
-[![Watch the video](https://img.youtube.com/vi/ENvLrYFNeqY/maxresdefault.jpg)](https://www.youtube.com/watch?v=ENvLrYFNeqY)
+[![Watch the video](https://img.youtube.com/vi/7EzTbmrYiZw/maxresdefault.jpg)](https://www.youtube.com/watch?v=7EzTbmrYiZw)
 
 Video
-https://www.youtube.com/watch?v=ENvLrYFNeqY
+[https://www.youtube.com/watch?v=7EzTbmrYiZw](https://www.youtube.com/watch?v=7EzTbmrYiZw)https://www.youtube.com/watch?v=7EzTbmrYiZw
 
 
 
